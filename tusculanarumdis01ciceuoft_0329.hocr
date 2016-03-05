@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tusculanarumdis01ciceuoft_0329.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 710 3242 741 3920">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 710 3242 749 3920">
+     <span class='ocr_line' id='line_1_1' title="bbox 715 3242 741 3920; baseline -678 4746"><span class='ocrx_word' id='word_1_1' title='bbox 726 3242 736 3356; x_wconf 51' lang='lat' dir='ltr'>(¹¹,k9</span> <span class='ocrx_word' id='word_1_2' title='bbox 715 3378 741 3920; x_wconf 52' lang='grc' dir='ltr'>ίιΙἾΙΙΙΙξυῚὮῚἋ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 710 3451 721 3463"><span class='ocrx_word' id='word_1_3' title='bbox 710 3451 721 3463; x_wconf 57' lang='grc' dir='ltr'><em>ζ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 731 3933 746 4237">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 731 3933 746 4237">
+     <span class='ocr_line' id='line_1_3' title="bbox 731 3933 746 4237; baseline 304 -2128"><span class='ocrx_word' id='word_1_4' title='bbox 731 3933 746 4237; x_wconf 46' lang='lat' dir='ltr'>&#39;lusis-r</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
